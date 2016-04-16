@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<frame>
+ <database name="AmbitionDB" connectionString="server=.;Uid=sa;Pwd=11111;Database=AmbitionDB">
+  <procedures name="P_DBPages" code="P_DBPages">
+  <parameters name="@Fields" code="Fields" type="varchar" size="500" direction="0" /> 
+  <parameters name="@From" code="From" type="varchar" size="1000" direction="0" /> 
+  <parameters name="@Condition" code="Condition" type="varchar" size="1000" direction="0" /> 
+  <parameters name="@SortBy" code="SortBy" type="varchar" size="500" direction="0" /> 
+  <parameters name="@PageIndex" code="PageIndex" type="nvarchar" size="20" direction="0" /> 
+  <parameters name="@PageSize" code="PageSize" type="nvarchar" size="20" direction="0" /> 
+  <parameters name="@TotalCount" code="TotalCount" type="int" size="4" direction="1" /> 
+  </procedures>
+ <procedures name="P_DBQuery" code="P_DBQuery">
+  <parameters name="@Fields" code="Fields" type="varchar" size="5000" direction="0" /> 
+  <parameters name="@From" code="From" type="varchar" size="5000" direction="0" /> 
+  <parameters name="@Condition" code="Condition" type="varchar" size="-1" direction="0" /> 
+  <parameters name="@SortBy" code="SortBy" type="varchar" size="5000" direction="0" /> 
+  </procedures>
+  </database>
+  </frame>
