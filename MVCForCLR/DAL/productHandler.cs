@@ -41,5 +41,15 @@ namespace MVCForCLR.DAL
             }
             return arr.ToString();
         }
+
+
+
+        public string EmployeeList()
+        {
+            return "hello employee. it's my own redis";
+        }
+
+
+
     }
 }

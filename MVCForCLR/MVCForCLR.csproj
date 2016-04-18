@@ -146,7 +146,10 @@
     <Content Include="Views\Image\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-
+    <ProjectReference Include="..\Jason.Cache.Redis\Jason.Cache.Redis.csproj">
+      <Project>{6f0a7487-1a25-4077-8976-5058aeca1c81}</Project>
+      <Name>Jason.Cache.Redis</Name>
+    </ProjectReference>
     <ProjectReference Include="..\JDD.Cache.Redis\JDD.Cache.Redis.csproj">
       <Project>{0a5319ce-d38c-4ff7-a06c-e5a0bb1f9320}</Project>
       <Name>JDD.Cache.Redis</Name>

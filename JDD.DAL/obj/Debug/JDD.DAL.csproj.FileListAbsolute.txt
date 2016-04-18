@@ -26,3 +26,10 @@ F:\Personal\CLR\CLR读书笔记\JDD.DAL\bin\Debug\JDD.Log.pdb
 F:\Personal\CLR\CLR读书笔记\JDD.DAL\obj\Debug\JDD.DAL.csprojResolveAssemblyReference.cache
 F:\Personal\CLR\CLR读书笔记\JDD.DAL\obj\Debug\JDD.DAL.dll
 F:\Personal\CLR\CLR读书笔记\JDD.DAL\obj\Debug\JDD.DAL.pdb
+H:\CLR\CLR\clr\JDD.DAL\bin\Debug\JDD.DAL.dll
+H:\CLR\CLR\clr\JDD.DAL\bin\Debug\JDD.DAL.pdb
+H:\CLR\CLR\clr\JDD.DAL\bin\Debug\JDD.Log.dll
+H:\CLR\CLR\clr\JDD.DAL\bin\Debug\JDD.Log.pdb
+H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.csprojResolveAssemblyReference.cache
+H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.dll
+H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.pdb

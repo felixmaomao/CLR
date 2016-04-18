@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDD.Cache.Redis", "..\JDD.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateProcedures", "..\CreateProcedures\CreateProcedures.csproj", "{3DE83F65-025A-48BB-BB86-84B9D5F29514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jason.Cache.Redis", "..\Jason.Cache.Redis\Jason.Cache.Redis.csproj", "{6F0A7487-1A25-4077-8976-5058AECA1C81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,16 @@ Global
 		{3DE83F65-025A-48BB-BB86-84B9D5F29514}.Release|Mixed Platforms.Build.0 = Release|x86
 		{3DE83F65-025A-48BB-BB86-84B9D5F29514}.Release|x86.ActiveCfg = Release|x86
 		{3DE83F65-025A-48BB-BB86-84B9D5F29514}.Release|x86.Build.0 = Release|x86
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6F0A7487-1A25-4077-8976-5058AECA1C81}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

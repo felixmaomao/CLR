@@ -34,3 +34,10 @@ F:\Personal\CLR\CLR读书笔记\JDD.Cache.Redis\bin\Debug\JDD.Log.pdb
 F:\Personal\CLR\CLR读书笔记\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.csprojResolveAssemblyReference.cache
 F:\Personal\CLR\CLR读书笔记\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.dll
 F:\Personal\CLR\CLR读书笔记\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.pdb
+H:\CLR\CLR\clr\JDD.Cache.Redis\bin\Debug\JDD.Cache.Redis.dll
+H:\CLR\CLR\clr\JDD.Cache.Redis\bin\Debug\JDD.Cache.Redis.pdb
+H:\CLR\CLR\clr\JDD.Cache.Redis\bin\Debug\JDD.Log.dll
+H:\CLR\CLR\clr\JDD.Cache.Redis\bin\Debug\JDD.Log.pdb
+H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.csprojResolveAssemblyReference.cache
+H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.dll
+H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.pdb

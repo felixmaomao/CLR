@@ -1,9 +1,5 @@
 ﻿/******************************************************************
  * Description   : Redis操作方法类
- * CreateDate    : 
- * Creater       : 
- * LastChangeDate: 2015-10-27 16:15
- * LastChanger   : 焦杰
  * ******************************************************************/
 using System;
 using System.Collections;
