@@ -33,3 +33,10 @@ H:\CLR\CLR\clr\JDD.DAL\bin\Debug\JDD.Log.pdb
 H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.csprojResolveAssemblyReference.cache
 H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.dll
 H:\CLR\CLR\clr\JDD.DAL\obj\Debug\JDD.DAL.pdb
+F:\Personal\CLR\JDD.DAL\bin\Debug\JDD.DAL.dll
+F:\Personal\CLR\JDD.DAL\bin\Debug\JDD.DAL.pdb
+F:\Personal\CLR\JDD.DAL\bin\Debug\JDD.Log.dll
+F:\Personal\CLR\JDD.DAL\bin\Debug\JDD.Log.pdb
+F:\Personal\CLR\JDD.DAL\obj\Debug\JDD.DAL.csprojResolveAssemblyReference.cache
+F:\Personal\CLR\JDD.DAL\obj\Debug\JDD.DAL.dll
+F:\Personal\CLR\JDD.DAL\obj\Debug\JDD.DAL.pdb

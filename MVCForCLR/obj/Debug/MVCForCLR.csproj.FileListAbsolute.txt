@@ -41,3 +41,4 @@ H:\CLR\CLR\clr\MVCForCLR\bin\Jason.Cache.Redis.pdb
 H:\CLR\CLR\clr\MVCForCLR\bin\ServiceStack.Redis.xml
 H:\CLR\CLR\clr\MVCForCLR\bin\ServiceStack.Text.xml
 H:\CLR\CLR\clr\MVCForCLR\bin\ServiceStack.Common.xml
+F:\Personal\CLR\MVCForCLR\obj\Debug\MVCForCLR.csprojResolveAssemblyReference.cache

@@ -16,3 +16,9 @@ C:\Users\Administrator\Desktop\CLR\CLR\CLR读书笔记\CreateProcedures\bin\Debu
 C:\Users\Administrator\Desktop\CLR\CLR\CLR读书笔记\CreateProcedures\obj\x86\Debug\CreateProcedures.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\CLR\CLR\CLR读书笔记\CreateProcedures\obj\x86\Debug\CreateProcedures.exe
 C:\Users\Administrator\Desktop\CLR\CLR\CLR读书笔记\CreateProcedures\obj\x86\Debug\CreateProcedures.pdb
+F:\Personal\CLR\CreateProcedures\bin\Debug\CreateProcedures.exe.config
+F:\Personal\CLR\CreateProcedures\bin\Debug\CreateProcedures.exe
+F:\Personal\CLR\CreateProcedures\bin\Debug\CreateProcedures.pdb
+F:\Personal\CLR\CreateProcedures\obj\x86\Debug\CreateProcedures.csprojResolveAssemblyReference.cache
+F:\Personal\CLR\CreateProcedures\obj\x86\Debug\CreateProcedures.exe
+F:\Personal\CLR\CreateProcedures\obj\x86\Debug\CreateProcedures.pdb

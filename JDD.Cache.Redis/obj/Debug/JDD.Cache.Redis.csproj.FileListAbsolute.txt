@@ -41,3 +41,4 @@ H:\CLR\CLR\clr\JDD.Cache.Redis\bin\Debug\JDD.Log.pdb
 H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.csprojResolveAssemblyReference.cache
 H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.dll
 H:\CLR\CLR\clr\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.pdb
+F:\Personal\CLR\JDD.Cache.Redis\obj\Debug\JDD.Cache.Redis.csprojResolveAssemblyReference.cache
